@@ -96,8 +96,8 @@ const Creaciones = () => {
                             </div>  
                         <div class="p-6">
                         <ScrollAnimation>
-                        <h1 class="title-font text-lg font-medium text-gray-600 mb-3">Clones de Aplicaciones Populares</h1>
-                        <p class="leading-relaxed mb-3">¡Bienvenido/a a mi asombroso rincón de clones de aplicaciones! Aquí encontrarás una colección única de clones inspirados en las populares plataformas como Google, Instagram, Netflix y muchas otras.</p>
+                        <h1 class="title-font text-lg font-medium text-gray-600 mb-3">Momentos de Iluminación y Más</h1>
+                        <p class="leading-relaxed mb-3">Bienvenido/a a mi espacio creativo, Aquí encontrarás una colección de proyectos que abarcan desde momentos de iluminación hasta efectos sorprendentes, formularios, notificaciones y mucho más.</p>
                         <div class="flex items-center flex-wrap ">
                             <Link href="/ideas" className="bg-gradient-to-r from-cyan-400 to-blue-700 hover:scale-105 drop-shadow-md  shadow-cla-blue px-4 py-1 rounded-lg">
                                 Da un vistazo

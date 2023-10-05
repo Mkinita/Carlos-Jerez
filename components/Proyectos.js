@@ -74,7 +74,7 @@ const Proyectos = () => {
                 </div>
 
                 <div className="flex items-center justify-center mt-12 animate-pulse">
-                    <a className="flex items-center text-white hover:underline hover:text-gray-200" href="https://github.com/Mkinita">
+                    <a className="flex items-center text-white hover:underline hover:text-gray-200" href="https://github.com/Mkinita" target="_blank">
                         <span className=''>Revisa el código en Github</span>
 
                         <svg className="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">

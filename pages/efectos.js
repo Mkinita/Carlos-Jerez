@@ -1,8 +1,9 @@
 import Layout from '@/layout/Layout'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
-import Efectos from '@/components/Efectos'
-
+import IdeasEfectos from '@/components/IdeasEfectos'
+import Image from 'next/image'
+import Link from 'next/link'
 
 const proyectos = () => {
   return (
@@ -11,7 +12,9 @@ const proyectos = () => {
         <div>
           <div class="">
             <Header/>
-            <Efectos/>
+            <div className=''>
+                <IdeasEfectos/>
+            </div>
             <Footer/>
           </div>
         </div>
